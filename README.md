@@ -14,9 +14,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/marcoscapiberibe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscapiberibe&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscapiberibe&layout=compact&langs_count=7&theme=noctis_minimus"/>
+ <a href="https://github.com/marcoscapiberibe">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoscapiberibe&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscapiberibe&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
   
 ### 🏆 Tecnologias
