@@ -42,6 +42,6 @@
   <a href="https://instagram.com/droneinthecloud" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="www.linkedin.com/in/marcos-capiberibe-2bbb6431" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/marcoscapiberibe/blob/output/github-contribution-grid-snake.svg)
  
 </div>
