@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Estou trabalhando como Desenvolvedor Front-end Jr(Freelancer) / Piloto de Drone / Videomaker / Fotógrafo Aéreo. 💻🚁🎬📸
+- 🔭 Estou trabalhando como Desenvolvedor Front-end (Freelancer) / Piloto de Drone / Videomaker / Fotógrafo Aéreo. 💻🚁🎬📸
 - 🌱 Me aperfeiçoando em Desenvolvimento WEB. 📖
 - ❤ Sou apaixonado por tecnologia, drones, games e cães. 💻🚁🎮🐶
 - ⚽ Torcedor do Sport Club do Recife ⚫🔴⚫
