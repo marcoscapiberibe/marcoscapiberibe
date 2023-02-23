@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Estou trabalhando como Desenvolvedor Front-end (Freelancer) / Piloto de Drone / Videomaker / Fotógrafo Aéreo. 💻🚁🎬📸
-- 🌱 Me aperfeiçoando em Desenvolvimento WEB. 📖
+- 🔭 Estou trabalhando como Desenvolvedor Mobile (React Native) / Piloto de Drone / Videomaker / Fotógrafo Aéreo. 💻🚁🎬📸
+- 🌱 Me aperfeiçoando em Desenvolvimento WEB e Mobile. 📖
 - ❤ Sou apaixonado por tecnologia, drones, games e cães. 💻🚁🎮🐶
 - ⚽ Torcedor do Sport Club do Recife ⚫🔴⚫
 - 📞 Contato / Whatsapp: + 55 (83) 99396-0158 📲
