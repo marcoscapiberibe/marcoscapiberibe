@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Estou trabalhando como Desenvolvedor Mobile (React Native) / Piloto de Drone / Videomaker / Fotógrafo Aéreo. 💻🚁🎬📸
+- 🔭 Estou trabalhando como Desenvolvedor Mobile (React Native). 💻
 - 🌱 Me aperfeiçoando em Desenvolvimento WEB e Mobile. 📖
 - ❤ Sou apaixonado por tecnologia, drones, games e cães. 💻🚁🎮🐶
 - ⚽ Torcedor do Sport Club do Recife ⚫🔴⚫
