@@ -5,7 +5,7 @@
 - 🔭 Trabalho como Desenvolvedor Mobile (React Native). 💻
 - ❤ Sou apaixonado por tecnologia, drones, games e cães. 💻🚁🎮🐶
 - ⚽ Torcedor do Sport Club do Recife ⚫🔴⚫
-- 📞 Contato / Whatsapp: + 55 (83) 99396-0158 📲
+- 📞 Contato / Whatsapp: + 55 (83) 99135-1285 📲
 
 ##
 
