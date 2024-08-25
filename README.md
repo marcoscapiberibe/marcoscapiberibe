@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Trabalho como Desenvolvedor Mobile (React Native). 💻
+- 🔭 Trabalho como Desenvolvedor Back-end (Node.JS / GraphQL) e Mobile (React Native). 💻
 - ❤ Sou apaixonado por tecnologia, drones, games e cães. 💻🚁🎮🐶
 - ⚽ Torcedor do Sport Club do Recife ⚫🔴⚫
 - 📞 Contato / Whatsapp: + 55 (83) 99135-1285 📲
